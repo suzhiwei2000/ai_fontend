@@ -4,15 +4,8 @@ This project demonstrates a basic Hardhat use case. It comes with a sample contr
 
 Try running some of the following tasks:
 
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+npm install or yarn 
+yarn serve or npm run serve
 
 
 <!-- 使用vite教程 下载react -->
@@ -35,3 +28,8 @@ export default Navbar -->
 npm install react-icons ethers
 <!-- smart_contarct  智能合约目录-->
 npm init //生产 package
+
+
+## 图片参考
+https://i.postimg.cc/SQTpXccT/1690118755151.png
+

@@ -24,7 +24,7 @@ const FooterReel = () => (
     </div>
     <div className="felx flex-col text-white">
         <div className=" font-bold text-3xl">客服</div>
-        <div className="my-4">客服微信: zh8001988</div>
+        <div className="my-4">客服微信: 13660761604</div>
     </div>
     </div>
   </div>
