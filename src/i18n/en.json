@@ -1,0 +1,23 @@
+
+{
+  "header": {
+      "Index":"Home",
+      "Exchange":"Product details",
+      "Tutorials": "Video tutorial",
+      "Feature":"Feature",
+      "Strategy":"Strategy",
+      "Wallets":"Free trial"
+
+  },
+  "Welcome": {
+      "Send Crypto" : "AI Artificial intelligence and full automation",
+      "across the world":"Trading",
+      "Explore":"Artificial intelligence, automatic trading technology is gradually mature in the world, they are constantly subverting the traditional trading model, will become a key boost tool for many traders to break the cocoon into butterfly",
+      "Connect Wallet":"Open a membership"
+  },
+  "home": {
+      "hot_recommended": "Hot Recommended",
+      "new_arrival": "New arrival",
+      "joint_venture": "Joint Venture"
+  }
+}

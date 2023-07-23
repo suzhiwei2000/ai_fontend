@@ -1,0 +1,23 @@
+{
+  "header": {
+      "Index":"首页",
+      "Exchange":"产品详情",
+      "Tutorials": "视频教程",
+      "Feature":"功能",
+      "Strategy":"策略库",
+
+      "Wallets":"免费试用"
+
+  },
+  "Welcome": {
+    "Send Crypto" : "AI人工智能与全自动",
+    "across the world":"交易",
+    "Explore":"人工智能、全自动交易技术在全球逐渐成熟，它们正不断地颠覆传统交易模式，将成为诸多交易者破茧成蝶的关键助推工具",
+    "Connect Wallet":"开通会员"
+},
+  "home": {
+      "hot_recommended": "Hot Recommended",
+      "new_arrival": "New arrival",
+      "joint_venture": "Joint Venture"
+  }
+}
