@@ -31,4 +31,5 @@ npm init //生产 package
 
 
 ## 图片参考
-https://postimg.cc/yWZGtgQc
+![home](https://postimg.cc/yWZGtgQc)
+
